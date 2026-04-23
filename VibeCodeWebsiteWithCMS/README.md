@@ -6,7 +6,11 @@ Can you design a modern single web page with different sections and top navigati
 
 ## Antigravity Prompt (See note)
 
-Note: In the prompt below, please replace "**YOUR_WEB_DATA_FORMS_URL**" and "**YOUR_WEB_DATA_FORMS_API_KEY**” with appropriate values from your Web Data Forms account.
+### Note
+
+In the prompt below, please replace "**YOUR_WEB_DATA_FORMS_URL**" and "**YOUR_WEB_DATA_FORMS_API_KEY**” with appropriate values from your Web Data Forms account.
+
+### Prompt
 
 Folder “designSource” contains design and HTML for a single web page. Use this to create a nextjs based SSR website. The website should be optimized for performance and SEO, utilizing techniques like code splitting and lazy loading. Use the latest supported version for all packages.
 
