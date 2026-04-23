@@ -24,11 +24,12 @@ The API endpoint REQUIRES BOTH these headers:
 
 “x-wdf-api-key”: “**YOUR_WEB_DATA_FORMS_API_KEY**”
 
-Save the API key above in a env file.
+Save the API key and API endpoint URL metioned above in a env file.
 
 We need a toggle configuration in an env file. When CACHE is set to true always use Incremental Static Regeneration (ISR) strategy to fetch api data. When CACHE is set to false each page refresh should fetch new data from the API.
 
 The site will be deployed on Vercel. So keep in mind that this is a SSR website which fetches and caches data on the server side. Add all Vercel specific packages that are required to deploy this on Vercel.
 
-Provide a running website which fetches date from the API endpoint, caches data or refreshes data based on the CACHE flag and for caching uses Incremental Static Regeneration (ISR) strategy. Keep all image paths relative. Provide a README file with full and detailed instructions on how to run in dev mode, build, the fastest/easiest way to check this project into a Github repository and detail all steps on how to deploy to Vercel.
+Provide a running/functional website which fetches date from the API endpoint, caches data or refreshes data based on the CACHE flag and for caching, uses Incremental Static Regeneration (ISR) strategy. Keep all image paths relative. Provide a README file with full and detailed instructions on how to run in dev mode, build, the fastest/easiest way to check this project into a Github repository and detail all steps on how to deploy to Vercel.
+
 If you have any questions, please ask me.
