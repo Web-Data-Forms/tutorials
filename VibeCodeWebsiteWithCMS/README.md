@@ -12,12 +12,13 @@ Folder “designSource” contains design and HTML for a single web page. Use th
 
 Keep in mind that some of the data on this page will come from a CMS, a single API call - see API endpoint details below. Query this endpoint to find out which data is coming in from this endpoint. For the rest of the data create a JSON object for easy editing later.
 
-API Endpoint: [YOUR_WEB_DATA_FORMS_URL)
+API Endpoint: **YOUR_WEB_DATA_FORMS_URL**
+
 The API endpoint REQUIRES BOTH these headers:
 
 “Authorization”: “none”,
 
-“x-wdf-api-key”: “YOUR_WEB_DATA_FORMS_API_KEY”
+“x-wdf-api-key”: “**YOUR_WEB_DATA_FORMS_API_KEY**”
 
 Save the API key above in a env file.
 
