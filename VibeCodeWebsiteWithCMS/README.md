@@ -26,7 +26,7 @@ The API endpoint REQUIRES BOTH these headers:
 
 Save the API key and API endpoint URL metioned above in a env file.
 
-We need a toggle configuration in an env file. When CACHE is set to true always use Incremental Static Regeneration (ISR) strategy to fetch api data. When CACHE is set to false each page refresh should fetch new data from the API.
+We need a toggle configuration in an env file. When CACHE is set to true always use Incremental Static Regeneration (ISR) strategy to fetch api data. When CACHE is set to false each page refresh should fetch new data from the API. Set CACHE to true by default.
 
 The site will be deployed on Vercel. So keep in mind that this is a SSR website which fetches and caches data on the server side. Add all Vercel specific packages that are required to deploy this on Vercel.
 
