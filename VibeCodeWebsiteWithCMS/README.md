@@ -2,7 +2,7 @@
 
 ## Stitch Prompt
 
-Can you design a modern single web page with different sections and top navigation for a dentist office called Waverly Dental Clinic. They already have a logo which is uploaded. Use this logo and match the colour scheme to the logo. Keep the design modern, sleek but welcoming.
+Can you design a modern single web page with different sections and top navigation for a dentist office. Keep the design modern, sleek but welcoming.
 
 ## Antigravity Prompt (See note)
 
