@@ -33,3 +33,25 @@ The site will be deployed on Vercel. So keep in mind that this is a SSR website 
 Provide a running/functional website which fetches date from the API endpoint, caches data or refreshes data based on the CACHE flag and for caching, uses Incremental Static Regeneration (ISR) strategy. Keep all image paths relative. Provide a README file with full and detailed instructions on how to run in dev mode, build, the fastest/easiest way to check this project into a Github repository and detail all steps on how to deploy to Vercel.
 
 If you have any questions, please ask me.
+
+## Tools
+
+### Website Design: Google Stitch
+
+https://stitch.withgoogle.com/
+
+### Content Management System: Web Data Forms
+
+https://www.webdataforms.com/
+
+### Website Code: Google Antigravity
+
+https://antigravity.google/
+
+### Code REpository: Github
+
+https://github.com/
+
+### Website Deployment: Vercel
+
+https://vercel.com/
